@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* 스택 알고리즘 풀어보기  */
 int main(void)
 {
     int a, count;
